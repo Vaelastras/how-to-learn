@@ -5,10 +5,6 @@
   font-family: Arial,"Helvetica Neue",sans-serif;
 }
 
-/* div, h1,h2, h3, p, ul, li {
-    border: solid 1px red;
-} */
-
 /* start header-style */
 
 .header {
@@ -235,20 +231,10 @@
 }
 
 .section-subtitle_theme_dark {
-
-  margin-bottom: 0px;
-  font-size: 24px;
-  font-weight: normal;
-  line-height: 34px;
   color: white;
 }
 
 .table_theme_dark {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width: 1100px;
-  margin: 0 auto;
   position: relative;
   z-index: 1;
 }
@@ -256,9 +242,6 @@
 .table__cell_theme_dark {
   width: 200px;
   color: white;
-  margin-right: 0;
-  margin-top: 80px;
-  margin-bottom: 0px;
 }
 
 .table__heading_theme_dark {
