@@ -20,8 +20,8 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/footer/footer.css);
 
-div, h1, h2, h3, ul, li, p, img, section, iframe, a {
+/* div, h1, h2, h3, ul, li, p, img, section, iframe, a {
   border: 1px red solid;
-}
+} */
 
 
